@@ -1,0 +1,57 @@
+{
+  "name": "PotatoSwap X Layer tokens",
+  "timestamp": "2024-04-15T21:24:06.707Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 4
+  },
+  "logoURI": "https://www.potatoswap.finance/images/potato/logo.svg",
+  "keywords": [
+    "PotatoSwap",
+    "potato",
+    "pot"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4463/standard/WeChat_Image_20220118095654.png"
+    },
+    {
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "address": "0xded3ac2a172a21a729063c39da55c030ec4a8cc9",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04292af1cf8687235a83766d55b307880fc5e76d",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+      "chainId": 196,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
+    }
+  ]
+}
