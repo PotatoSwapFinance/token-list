@@ -60,6 +60,14 @@
       "chainId": 196,
       "decimals": 18,
       "logoURI": "https://pbs.twimg.com/profile_images/1782449940675035136/-Y2l9xtU_400x400.jpg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://static.oklink.com/cdn/wallet/logo/WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png?x-oss-process=image/format,webp/resize,w_80,h_80,type_6/ignore-error,1"
     }
   ]
 }
