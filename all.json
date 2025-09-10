@@ -72,6 +72,14 @@
       "chainId": 196,
       "decimals": 18,
       "logoURI": "https://potatoswap.finance/images/tokens/0x6bff3b94b9bd51b8adf3b84ffc50c39e3fe18816.png"
+    },
+    {
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://potatoswap.finance/images/tokens/0x779Ded0c9e1022225f8E0630b35a9b54bE713736.png"
     }
   ]
 }
