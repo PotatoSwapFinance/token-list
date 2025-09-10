@@ -7,11 +7,7 @@
     "patch": 4
   },
   "logoURI": "https://www.potatoswap.finance/images/potato/logo.svg",
-  "keywords": [
-    "PotatoSwap",
-    "potato",
-    "pot"
-  ],
+  "keywords": ["PotatoSwap", "potato", "pot"],
   "tokens": [
     {
       "name": "Wrapped OKB",
@@ -68,6 +64,14 @@
       "chainId": 196,
       "decimals": 18,
       "logoURI": "https://static.oklink.com/cdn/wallet/logo/WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png?x-oss-process=image/format,webp/resize,w_80,h_80,type_6/ignore-error,1"
+    },
+    {
+      "name": "XL CAT",
+      "symbol": "XLCAT",
+      "address": "0x6bff3b94b9bd51b8adf3b84ffc50c39e3fe18816",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://potatoswap.finance/images/tokens/0x6bff3b94b9bd51b8adf3b84ffc50c39e3fe18816.png"
     }
   ]
 }
